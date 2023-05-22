@@ -1,0 +1,13 @@
+{
+  "ui_key_general_user_id":"orders/detail/userID=101@gmail.com",
+  "ui_key_general_user_language":"orders/detail/language=JA",
+  "ui_key_general_business_partner":"orders/detail/businessPartnerID=101",
+  "ui_function":"OrdersDetail",
+  "ui_key_function_url":"101@gmail.com/orders/detail/orderID=1/orderItem=1/product=A3750",
+  "runtime_session_id":"ac0e3c975cfa4d43b853c477eede1b5f",
+  "Params":{
+     "OrderId":1,
+     "OrderItem":1,
+     "Product":"A3750"
+  }
+}

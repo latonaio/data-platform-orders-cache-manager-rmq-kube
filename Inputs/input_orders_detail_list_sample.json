@@ -1,0 +1,18 @@
+{
+  "ui_key_general_user_id":"orders/detail/list/userID=101@gmail.com",
+  "ui_key_general_user_language":"orders/detail/list/language=JA",
+  "ui_key_general_business_partner":"orders/detail/list/businessPartnerID=101",
+  "ui_function":"OrdersDetailList",
+  "ui_key_function_url":"101@gmail.com/orders/detail/list/OrderID=12/ItemCompleteDeliveryIsDefined=false/ItemDeliveryStatus=NP/ItemDeliveryBlockStatus=false/ItemIsCanceled=false/ItemIsDeleted=false",
+  "runtime_session_id":"0be72433a5e14ffab8d4b7a3d03be1f6",
+  "Params":{
+     "User":"Buyer",
+     "OrderId":1,
+     "ItemCompleteDeliveryIsDefined":false,
+     "ItemDeliveryStatus":"NP",
+     "ItemDeliveryBlockStatus":false,
+     "ItemIsCanceled":false,
+     "ItemIsDeleted":false,
+     "Buyer":101
+  }
+}
